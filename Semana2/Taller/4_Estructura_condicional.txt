@@ -1,0 +1,74 @@
+1.	Desarrollar un programa que calcule la edad de una persona a partir de su año de nacimiento y teniendo en cuenta el ejemplo en clase determine si es un niño, un púber, adolescente, joven o adulto.
+
+2.	Diseña  una  función  que  reciba  dos  números  enteros  a  y  b  y  devuelva,  simultáneamente  el  menor  y  el mayor de ambos. 
+
+3.	Diseña un programa que pida por teclado un número entero y diga si es par o impar.
+
+4.	Dada una coordenada (x,y), determine si ésta pertenece a la recta y = 3x +5.
+
+5.	Diseñe un algoritmo que  pida por teclado un número entero y determine si es múltiplo de 4.
+
+6.	Realizar un programa que pida dos números enteros por teclado y muestre por pantalla el siguiente menú: 
+
+CALCULADORA
+1. SUMAR
+2. RESTAR
+3. MULTIPLICAR
+4. DIVIDIR
+5. SALIR
+
+Seleccione una opción.
+
+El usuario deberá elegir una opción y el programa deberá mostrar el resultado por pantalla. 
+
+7.	Diseñar el algoritmo que calcule el área y el perímetro de un triángulo rectángulo dada la base y la altura (sus dos catetos) y determine si él área es menor que 10 ó el perímetro es mayor que 10. Y diga cuál de las dos condiciones se cumple.
+
+8.	Dados dos números, informar si uno es divisor del otro. 
+
+9.	Dada una coordenada (x,y), determine si ésta pertenece a la recta y = 3x +5.
+
+10.	Diseñe un algoritmo que lea tres números y encuentre si uno de ellos es la suma de los otros dos.  
+
+11.	Diseñar un algoritmo que dado el año y el nombre de un mes, determinar si el año es bisiesto y cuántos días tiene el mes.  
+
+12.	Elaborar un algoritmo que dada 3 notas de un estudiante calcule el promedio y diga si este gano o perdió la materia.
+
+13.	Escribir un procedimiento para leer los valores de dos de los tres ángulos internos de un triángulo y mostrar en pantalla “Es un Triángulo Rectángulo” si efectivamente es un triángulo de este tipo o, en caso contrario, mostrar “No es un Triángulo Rectángulo.
+
+14.	Diseñar un algoritmo que calcule el mayor y el menor de 5 números ingresados por teclado.
+
+15.	Diseñar el algoritmo que exprese en horas, minutos y segundos un tiempo dado en segundos. Ejemplo: Si ingresan 8015 tendríamos 2h-13m-35s.
+
+16.	Diseñar un algoritmo que al ingresarle tres valores, a continuación imprima la suma, el promedio, el producto, el menor y el mayor de estos números.
+
+17.	Dada una especificación de tiempo en horas, minutos y segundos, calcule dicha especificación un segundo después. Nota: el máximo para el valor de las horas es 23, para los minutos es 59 y los segundo 59.
+
+18.	Diseñar un algoritmo que permita calcular la suma entre dos períodos de tiempo dados en: horas, minutos y segundos. Nota: el máximo para el valor de las horas es 23, para los minutos es 59 y los segundo 59. 
+
+Ejemplo:11h:40m:50s + 20h:55m:30s =1d:8h:26m:20s
+
+19.	Escriba un programa al que reciba 5 números enteros y determine cuántos de ellos son pares y cuántos son impares.
+
+20.	El curso de Ofimatica y Tics tiene 5 notas distribuidos asi:
+
+Talleres 40%, Examen Final 30%, Autoevaluacion 5%, Asistencia y Puntualidad 5%, Avance del proyecto de grado 20%. Realice un programa que permita calcular la nota final del curso, y asignar el siguiente concepto al estudiante
+Si la nota es mayor o igual que 4.5 imprima Excelente.
+Si la nota es mayor o igual que 4.0 y menor que 4.5 imprima “Sobresaliente”.
+Si la nota es mayor o igual que 3.0 y menor que 4.0 imprima “Bien”.
+Si la nota es mayor o igual que 2.0 y menor que 3.0 imprima “Mal”.
+Si la nota es mayor o igual que 1.0 y menor que 2.0 imprima “Remal”.
+Si la nota es mayor o igual que 0.0 y menor que 1.0 imprima “No se engañe más y váyase para la casa”.
+
+Inicio
+	Escriba (“Digite un número: ”);
+	Leer num;
+	Par = num % 2;
+	Si (par=0) entonces
+		Escriba (“El número es par”);
+	Sino
+		Escriba (“El número es impar”);
+	Fin_Si;
+Fin
+
+
+

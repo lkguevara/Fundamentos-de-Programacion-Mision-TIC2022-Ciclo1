@@ -1,0 +1,133 @@
+1. Lea dos números e imprima solo los positivos.
+2. lea dos números e imprima ambos solo si son positivos
+3. lea dos números calcule la suma e imprima los dos números leídos solo si la suma es negativa
+4. elaborar un algoritmo que averigüe si un triangulo es equilátero, isósceles o escaleno, como datos de entrada se tienen sus 3 lados.
+5. Una frutería ofrece peras con descuento según la siguiente tabla:
+
+0-2     0%
+3-5     10%
+6-10    15%
+11 en adelante 18%
+
+Entrar por pantalla: numero de peras compradas y valor compra. Determinar cuanto pagara una persona que compre peras en esa frutería.
+
+6. Realizar un algoritmo que lea el valor de la unidad y el # de unidades vendidas por un empleado e imprima su comisión si se sabe que la comisión es del 15 % si vende mas de 200 unidades del 10% si vende entre 100 y 200 unidades y el 5% si vende menos de 100 unidades sobre el valor total de la venta. 
+
+7. Calcular el total que una persona debe pagar en una llantera, si el precio de cada llanta es de $800 si se compran menos de 5 llantas y de $700 si se compran 5 o mas. 
+
+8. En una escuela la colegiatura el costo de matrícula de los alumnos se determina según el número de materias que cursan. El costo de todas las materias es el mismo. Se ha establecido un programa para estimular a los alumnos, el cual consiste en lo siguiente: si el promedio obtenido por un alumno en el ultimo periodo es mayor o igual que 4, se le hará un descuento del 30% sobre la matrícula y no se le cobrara IVA; si el promedio obtenido es menor que 4 deberá pagar la matricula completa, la cual incluye el 10% de IVA. Obtener cuanto debe pagar un alumno. 
+
+9. En una fábrica de computadoras se planea ofrecer a los clientes un descuento que dependerá del número de computadoras que compre. Si las computadoras son menos de cinco se les dará un 10% de descuento sobre el total de la compra; si el número de computadoras es mayor o igual a cinco pero menos de diez se le otorga un 20% de descuento; y si son 10 o más se les da un 40% de descuento. El precio de cada computadora es de $11,000.
+
+10. Un almacén de venta de ropa tiene las siguientes promociones para sus clientes las cuales consisten en lo siguiente:
+-Para ventas menores ó iguales a 100.000 con pago en efectivo, se hace un descuento del 20%, con tarjeta de crédito se hace el 10%.
+-Para ventas mayores a 100.000 y menores o iguales a 200.0000, con pago en Efectivo se hace un descuento del 30%, con tarjeta de crédito se hace el 15%.
+-Para ventas mayores a 200.000, con pago en efectivo se hace un descuento del 40% y con tarjeta de crédito se hace el 20%. 
+
+11. Una tienda que vende pantalones al menudeo y al mayoreo tiene las siguientes tarifas, si se compran menos de 5 pantalones estos se cobran a su precio normal, en caso de que se compren 5 o más pero menos de 12 , se les descuenta el 15% en cada pantalón, si se compran más de 12 se les descuenta 30% en cada pantalón. Escriba un programa que pida como dato de entrada el número de pantalones que se desean comprar y con ello imprima el total a pagar por la compra hecha. 
+
+12. Diseñe un programa que lea 3 números enteros y determine el mayor.
+
+13. Calcule el valor de la función Fx, dada por:
+
+        x3 + x/2, para x < 0
+Fx =
+        4x2 – 2 , para x ≥ 0
+
+14. Diseñe un programa que determine le categoría de un estudiante en base a su promedio ponderado de acuerdo a la siguiente tabla:
+
+PROMEDIO        CATEGORIA 
+>=17                A      
+>=14 pero <17       B 
+>=12 pero <14       C 
+< 12                D
+
+15. Una tienda vende-tres tipos de productos cuyos códigos son 200, 300 Y 400 a los precios unitarios dados en la siguiente tabla:
+
+CODIGO          PRECIO UNITARIO 
+200                 20 
+300                 35 
+400                 50
+
+Como oferta la tienda ofrece un porcentaje de descuento sobre el importe de la compra de acuerdo a la siguiente tabla:
+
+IMPORTE DE COMPRA   DESCUENTO 
+>= 1000                 20 % 
+>=800 pero <1000        16 % 
+>=300 pero < 800        12 % 
+< 300                   8 %
+
+16. Diseñe un algoritmo que determine el importe de la compra, el importe del descuento y el importe a pagar por la compra de cierta cantidad de unidades de un mismo tipo de producto. 
+
+17. El índice de masa corporal (IMC) permite medir el grado de sobrepeso u obesidad de una persona. El IMC de una persona se calcula con la fórmula: IMC = peso/estatura2 Estando el peso en kilogramos y la estatura en metros. En base al valor del IMC, se obtiene el grado de obesidad de la persona de acuerdo a la tabla adjunta.
+
+IMC         GRADO DE OBESIDAD 
+< 20            Delgado 
+>=20 pero <25   Normal 
+>=25 pero <27   Sobrepeso 
+>=27            Obesidad
+
+Hacer un programa que determine el grado de obesidad de una persona conociendo su peso y su estatura.
+
+18. Hacer un programa que permita calcular el pago total de un trabajador de acuerdo a lo siguiente:
+
+Bonificación: respecto al sueldo 
+Tipo    Masculino   Femenino 
+Soltero     8%        10%
+Casado      10%       12%
+
+Descuento: respecto al sueldo + bonificación
+Tipo    Masculino   Femenino
+Soltero     6%          5% 
+Casado      4%          3%
+
+Se debe ingresar el sueldo del trabajador, sexo y estado civil y reportar bonificación, descuento, y el pago total.
+
+20. Hacer un programa que permita calcular el pago total de un trabajador de acuerdo a lo siguiente: Se debe ingresar sueldo, categoría(A, B, C o D) y condición (estable, no estable). o La bonificación se calcula de acuerdo a lo siguiente:
+                Condición
+categoría       Estable         No Estable
+A                   20%             17% 
+B                   18%             15% 
+C                   15%             14% 
+D                   12%             10%
+
+Descuento: respecto al sueldo + bonificación Estable: 6% No estable: 4% Se debe reportar bonificación, descuento y pago total.
+
+21. Una distribuidora de huevos quiere contratarlo para que realice un algoritmo que calcule el precio de venta por cierta cantidad de huevos a comprar por parte de un cliente. El precio de venta se calcula con base en la siguiente tabla:
+
+Precio unitario huevo         Descuento por cantidad de huevos a llevar
+Tipo A      Tipo B             1-100      101-200     201-300     >=301
+300         250                 3%          5%          8%          10%
+
+Se pide calcular
+- Total de la compra
+- Total del descuento
+- Total de la compra después del descuento
+
+
+22. Un almacén de la ciudad tiene un plan de tarifas y descuentos sobre el valor de envió de mercancía a sus clientes
+
+Peso mercancía     Tarifa de envió
+<=500 kg            $40.000
+>500 y <=750 kg     $80.000
+>750 y <=1000 kg    $100.000
+>1000 kg            $120.000
+
+Descuento
+Si el valor de la mercancía es mayor o igual a 300.000 y menor igual a 600.000 se hace un descuento del 20% sobre el valor del envió.
+Si el valor de la mercancía es mayor a 600.000 y menor o igual a 1.000.000 se hace un descuento del 35% sobre el valor del envió.
+Si el valor de la mercancía es mayor a un 1.000.000 se hace un descuento sobre el valor del envió.
+Promociones
+Si el pago se hace con tarjeta propia del almacén no se cobra envió.
+Si paga en efectivo y el valor de la mercancía es mayor a $500000 no se cobra envió.
+Si se paga en efectivo y el valor de la mercancía esta entre 300.000 y 500.000 se hace un descuento del 50% sobre la tarifa de envió.
+Desarrolle un algoritmo que calcule e imprima el valor del envió
+
+25. Obtener el total que tendrá que pagar un alumno si la colegiatura para alumnos de profesional es de $300 por cada cinco unidades y para alumnos de preparatoria es de $180 por cada cinco unidades, de acuerdo a los siguientes criterios: 
+- Si el promedio es de 9.5 o más y el alumno es de preparatoria, entonces este podrá cursar 55 unidades y se le hará un 25% de descuento. 
+- Si el promedio es mayor o igual a 9 pero menor que 9.5 y el alumno es de preparatoria, entonces este podrá cursar 50 unidades y se le hará un 10% de descuento. 
+- Si el promedio es mayor que 7 y menor que 9 y el alumno es de preparatoria, este podrá cursar 50 unidades y no tendrá ningún descuento. 
+- Si el promedio es de 7 o menor, el numero de materias reprobadas es de 0 a 3 y el alumno es de preparatoria, entonces podrá cursar 45 unidades y no tendrá descuento. 
+- Si el promedio es de 7 o menor, el numero de materias reprobadas es de 4 o más y el alumno es de preparatoria, entonces podrá cursar 40 unidades y no tendrá ningún descuento. 
+- Si el promedio es mayor o igual a 9.5 y el alumno es de profesional, entonces podrá cursar 55 unidades y se le hará un 20% de descuento. 
+- Si el promedio es menor de 9.5 y el alumno es de profesional, entonces podrá cursar 55 unidades y no tendrá descuento.

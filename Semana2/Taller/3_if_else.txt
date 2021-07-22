@@ -1,0 +1,5 @@
+1. Determinar si un número entero entrado por pantalla es divisible por otro número entrado también por pantalla.
+
+2. Leer tres números enteros y determinar si la suma de dos de ellos da el tercero.
+
+3. Leer tres números enteros y determinar si con ellos se puede construir un triángulo o no.

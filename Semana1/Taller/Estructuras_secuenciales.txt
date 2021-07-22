@@ -1,0 +1,89 @@
+1. Lea desde el teclado el nombre y la edad de cualquier persona e imprima tanto el nombre como la edad
+2. Lea dos números. Calcule la suma e imprima la suma y los dos números.
+3. Leer un número y calcular el 5% del número leído.
+4. Elaborar un algoritmo que calcule e imprima el área de un triangulo, sabiendo que se conoce su base y su altura
+5. Calcular el área de un rectángulo
+6. Calcular el área de un cuadrado
+7. Calcular el área de un círculo conociendo su radio
+8. Un alumno posee 3 notas en la materia de algoritmos y desea saber cual será su calificación final
+9. Calcule e imprima el promedio de edad de 3 personas.
+10. Dada un cantidad en pesos, obtener la equivalencia en dólares, asumiendo que la unidad cambiaría es un dato desconocido
+11. Calcular el número de pulsaciones que una persona debe tener por cada 11
+segundos de ejercicio, si la formula es:
+num. Pulsaciones = (220 - edad)/10
+
+12. Calcular el nuevo salario de un obrero si obtuvo un incremento del 25% sobre su salario anterior.
+13. El dueño de una tienda compra un artículo a un precio determinado. Obtener el precio en que lo debe vender para obtener una ganancia del 30%.
+14. Todos los lunes, miércoles y viernes, una persona corre la misma ruta y cronometra los tiempos obtenidos. Determinar el tiempo promedio que la persona
+tarda en recorrer la ruta en una semana cualquiera.
+15. Leer el nombre de un empleado, su salario básico por hora y el número de horas trabajadas en el mes. Calcular su salario mensual e imprimir tanto el nombre
+como su salario
+16. Preste $500.000 y pague $ 570.000 Cuanto interés me cobraron.
+17. Calcular la cantidad a pagar de matricula por un estudiante de la siguiente forma el total a pagar es igual a los cargos fijos mas los cargos variables. Los
+cargos fijos son $300000 y los cargos variables se calculan sumando el 10% del patrimonio y el 15% de la renta. Leer los datos necesarios
+18. La presión, el volumen y la temperatura de una masa de aire se relacionan por la formula:
+Masa = (presión * volumen)/(0.37 * (temperatura + 460))
+Calcular la masa.
+19. En un hospital existen tres áreas: Ginecología, Pediatría, Traumatología. El
+presupuesto anual del hospital se reparte conforme a la sig. Tabla:
+Área            Porcentaje del presupuesto
+Ginecología         40%
+Traumatología       30%
+Pediatría           30%
+Obtener la cantidad de dinero que recibirá cada área, para cualquier monto presupuestal.
+
+20. Un alumno desea saber cual será su nota definitiva
+La calificación se obtiene de la sig. manera:
+Examen 90%
+Promedio de tareas 10%
+En esta materia se pidió un total de tres tareas.
+
+21. Conocidos dos valores, elaborar un programa que calcule el resultado de dividir el primero sobre el segundo.
+22. Un empleado trabaja 48 horas en la semana a razón de $ 12000 la hora, la retención en la fuente es de 5% del salario básico. Se desea saber cual es el
+salario neto del trabajador.
+23. Hacer un algoritmo que, capture por pantalla los dos lados diferentes de un rectángulo, encuentre el perímetro y el área del mismo.
+24. Elabore Un algoritmo que capture un número por pantalla y obtenga su cuadrado y su cubo.
+25. Capturar por pantalla el radio de un círculo. Haga un algoritmo que obtenga el área del círculo y la Longitud de la circunferencia.
+26. Dados los tres lados de un triangulo, haga un algoritmo que encuentre:
+perímetro, semiperimetro y el área de un triangulo
+27. Escribir un programa al cual ingrese la velocidad de un móvil expresada en metros por segundo e imprima en pantalla la velocidad en kilómetros por hora.
+28. Una farmacia aplica al precio de los remedios el 10% de descuento. Hacer un programa que ingresado el valor de la compra calcule el descuento y el precio
+final
+29. Diseñe un algoritmo que determine el porcentaje de varones y de mujeres que hay en un salón de clases
+30. El sueldo neto de un vendedor se calcula como la suma de un sueldo básico de 450.000 más el 12% del monto total vendido. Diseñe un algoritmo que
+determine el sueldo neto de un vendedor sabiendo que hizo tres ventas en el mes.
+31. Leer el sueldo de tres empleados y aplicarles un aumento del 10, 12 y 15% respectivamente. Desplegar el resultado.
+32. Diseñe un algoritmo que exprese la capacidad de un disco duro en megabytes, kilobytes y bytes, conociendo la capacidad del disco en gigabytes. Considere que:
+1 kilobyte = 1024 bytes, 1 megabyte = 1024 kilobyte, 1 gigabyte = 1024 megabytes.
+33. Elabore un programa que realice la conversión de cm. a pulgadas. Donde 1cm = 0.39737 pulgadas.
+34.Elabore un programa que realice la conversión de libras a kilogramos Donde 1 Kg. = 2.2046 libras.
+35. Obtener la edad de una persona en meses, si se ingresa su edad en años y meses. Ejemplo: Ingresado 3 años 4 meses debe mostrar 40 meses
+36. Desplegar el peso dado en kilos de una persona en gramos, libras y toneladas.
+37. Programa que evalúa la función y = 5x^2 3x + 2 
+38.Un alumno desea saber cual será su promedio general en las tres materias mas difíciles que cursa y cual será el promedio que obtendrá en cada una de ellas. Estas materias se evalúan como se muestra a continuación:
+La calificación de Matemáticas se obtiene de la sig. manera:
+Examen 90%
+Promedio de tareas 10%
+En esta materia se pidió un total de tres tareas.
+
+La calificación de Física se obtiene de la sig. manera:
+Examen 80%
+Promedio de tareas 20%
+En esta materia se pidió un total de dos tareas.
+
+La calificación de Química se obtiene de la sig. manera:
+Examen 85%
+Promedio de tareas 15%
+En esta materia se pidió un promedio de tres tareas.
+
+39. Realizar un algoritmo que permita solucionar y mostrar por pantalla la
+siguiente ecuación: 
+T= r3/y *w5
+Donde: r=c2+b2* a2
+w=20,457
+y= w+c3+b2
+Se deben leer los valores de a, b, c.
+
+40. El Nacional juega tres partidos en un mes y gana el 20% de lo recolectado por venta de boletería en el primer partido; el 30 % en el segundo partido y el 40 % en el tercer partido. Muestre, Cuánto es el recaudo total en el mes? y cuánto gana el equipo en el mes?.
+41. Escriba un algoritmo que muestre el área de un rombo.
+

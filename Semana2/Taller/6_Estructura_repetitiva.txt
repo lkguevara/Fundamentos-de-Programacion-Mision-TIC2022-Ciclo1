@@ -1,0 +1,214 @@
+1.	Leer un número entero y determinar si es un número terminado en 4.  
+2.	Leer un número entero y determinar si tiene 3 dígitos.
+3.	Leer un número entero y determinar si es negativo.  
+4.	Leer un número entero de dos dígitos y determinar a cuánto es igual la suma de sus dígitos.  
+5.	Leer un número entero de dos dígitos y determinar si ambos dígitos son pares.  
+6.	Leer un número entero de dos dígitos menor que 20 y determinar si es primo.  
+7.	Leer un número entero de dos dígitos y determinar si es primo y además si es negativo.  
+8.	Leer un número entero de dos dígitos y determinar si sus dos dígitos son primos.  
+9.	Leer un número entero de dos dígitos y determinar si un dígito es múltiplo del otro.  
+10.	Leer un número entero de dos dígitos y determinar si los dos dígitos son iguales.  
+11.	Leer dos números enteros y determinar cuál es el mayor.  
+12.	Leer dos números enteros de dos dígitos y determinar si tienen dígitos comunes.  
+13.	Leer dos números enteros de dos dígitos y determinar si la suma de los dos números origina un número par.  
+14.	Leer dos números enteros de dos dígitos y determinar a cuánto es igual la suma de todos los dígitos.  
+15.	Leer un número entero de tres dígitos y determinar a cuánto es igual la suma de sus dígitos.  
+16.	Leer  un  número  entero  de  tres  dígitos  y  determinar  si  al  menos  dos  de  sus  tres  dígitos  son iguales. 
+17.	Leer un número entero de tres dígitos y determinar en qué posición está el mayor dígito.  
+18.	Leer un número entero de tres dígitos y determinar si algún dígito es múltiplo de los otros.  
+19.	Leer tres números enteros y determinar cuál es el mayor. Usar solamente dos variables. 
+20.	Leer tres números enteros y mostrarlos ascendentemente.
+21.	Leer tres números enteros de  dos dígitos cada uno y determinar en cuál de ellos se encuentra el mayor dígito.  
+22.	Leer un número entero de tres dígitos y determinar si el primer dígito es igual al último.  
+23.	Leer un número entero de tres dígitos y determinar cuántos dígitos primos tiene.  
+24.	Leer un número entero de tres dígitos y determinar cuántos dígitos pares tiene.  
+25.	Leer un número entero de tres dígitos y determinar si alguno de sus dígitos es igual a la suma de los otros dos.  
+26.	Leer un número entero de cuatro dígitos y determinar a cuanto es igual la suma de sus dígitos.  
+27.	Leer un número entero de cuatro dígitos y determinar cuántos dígitos pares tiene.  
+28.	Leer un número entero menor que 50 y positivo y determinar si es un número primo.  
+29.	Leer  un  número  entero  de  cinco  dígitos  y  determinar  si  es  un  número  capicúo.  Ej.  15651, 59895.  
+30.	Leer un número entero de cuatro dígitos y determinar si el segundo dígito es igual al penúltimo.  
+31.	Leer un número entero y determina si es igual a 10.  
+32.	Leer un número entero y determinar si es múltiplo de 7.  
+33.	Leer un número entero y determinar si termina en 7.  
+34.	Leer un número entero menor que mil y determinar cuántos dígitos tiene.  
+35.	Leer un número entero de dos dígitos, guardar cada dígito en una variable diferente y luego mostrarlas en pantalla.   
+36.	Leer un número entero de 4 dígitos y determinar si tiene mas dígitos pares o impares.  
+37.	Leer dos números enteros y determinar cuál es múltiplo de cuál.
+38.	Leer tres números enteros y determinar si el último dígito de los tres números es igual.  
+39.	Leer tres números enteros y determina si el penúltimo dígito de los tres números es igual.  
+40.	Leer    dos  números  enteros  y  si  la  diferencia  entre  los  dos  es  menor  o  igual  a 10 entonces mostrar en pantalla todos los enteros comprendidos entre el menor y el mayor de los números leídos. 
+41.	Leer dos números enteros y determinar si la diferencia entre los dos es un número primo.  
+42.	Leer dos números enteros y determinar si la diferencia entre los dos es un número par.  
+43.	Leer  dos  números  enteros  y  determinar  si  la  diferencia  entre  los  dos  es  un  número  divisor exacto de alguno de los dos números.  
+44.	Leer un número entero de 4 dígitos y determinar si el primer dígito es múltiplo de alguno de los otros dígitos.  
+45.	Leer un número entero de 2 dígitos y si es par mostrar en pantalla la suma de sus dígitos, si es primo y menor que 10 mostrar en pantalla su último dígito y si es múltiplo de 5 y menor que 30 mostrar en pantalla el primer dígito.  
+46.	Leer un número entero de 2 dígitos y si terminar en 1 mostrar en pantalla su primer dígito, si termina en 2 mostrar en pantalla la suma de sus dígitos y si termina en 3 mostrar en pantalla el producto de sus dos dígitos.  
+47.	Leer dos números enteros y si la diferencia entre los dos números es par mostrar en pantalla la suma  de  los  dígitos  de  los  números,  si  dicha  diferencia  es  un  número  primo  menor  que  10 entonces  mostrar  en  pantalla  el  producto  de  los  dos  números  y  si  la  diferencia  entre  ellos terminar en 4 mostrar en pantalla todos los dígitos por separado. 
+48.	Leer un número entero y si es menor que 100 determinar si es primo.  
+49.	Leer un número entero y si es múltiplo de 4 determinar si su último dígito es primo.  
+50.	Leer un número entero y si es múltiplo de  4 mostrar en pantalla su mitad, si es múltiplo de 5 mostrar  en  pantalla  su  cuadrado  y  si  es  múltiplo  e  6  mostrar  en  pantalla  su  primer  dígito. Asumir que el número no es mayor que 100.
+
+
+OTROS 
+
+51.	[R] Los conductores están preocupados por el millaje (millas/galón) que obtienen sus automóviles. Un conductor ha conservado el registro de las millas recorridas y los galones gastados. Desarrolle un programa en C que reciba de entrada las millas y los galones utilizados. El programa deberá calcular y presentar las millas por galón logradas en cada recorrido. Tras procesar toda la información de entrada, el programa deberá calcular e imprimir el millaje combinado por galón de todos los tanques llenos. Básese en la siguiente figura para entender el funcionamiento del programa:
+
+Ingrese los galones utilizado (-1 para terminar): 12.8 
+Ingrese las millas manejadas: 287 
+La relación millas/galon para este tanque fue: 22.421875
+
+Ingrese los galones utilizado (-1 para terminar): 10.3 
+Ingrese las millas manejadas: 200 
+La relación millas/galon para este tanque fue: 19.417475 
+
+Ingrese los galones utilizado (-1 para terminar): 5 
+Ingrese las millas manejadas: 120 
+La relación millas/galon para este tanque fue: 24.000000 
+
+Ingrese los galones utilizado (-1 para terminar): -1 
+
+El promedio global de millas/galon fue: 21.601423
+Fin del programa!!!
+
+52.	[R] Una gran compañía de productos químicos paga por comisión a sus agentes de ventas. Estos reciben cada semana $200, más el 9% de sus ventas. Por ejemplo, un agente que venda $5000 en químicos, en una semana recibirá $200, más el 9% de $5000, es decir, un total de $650. Desarrolle un programa en C que acepte como entradas las ventas netas de cada semana y calcule y despliegue sus ingresos. Al finalizar, el programa debe desplegar la cantidad total y el promedio del salario del vendedor. Básese en la siguiente figura que ilustra como funcionaria el programa para realizarlo:
+
+Ingrese las ventas en dólares de la semana (-1 para terminar): 5000 
+El salario es $650.00
+
+Ingrese las ventas en dólares de la semana (-1 para terminar): 6000 
+El salario es $740.00 
+
+Ingrese las ventas en dólares de la semana (-1 para terminar): 7000 
+El salario es $830.00
+
+Ingrese las ventas en dólares de la semana (-1 para terminar): -1
+Total pagado: $2220.00
+Promedio salario: $740.00
+Fin del programa!!!
+
+53.	[R] Una oficina de seguros ha reunido datos concernientes a todos los accidentes de tránsito ocurridos en el área metropolitana de Medellín en el último año. Por cada conductor involucrado en un accidente se toman los siguientes datos: año de nacimiento, sexo (1: Femenino, 2: Masculino), registro del carro (1: Medellín, 2: Otras ciudades). Hacer un programa que muestre:
+
+a)	El porcentaje de conductores menores de 25 años
+b)	El porcentaje de conductores del sexo femenino.
+c)	El Porcentaje de conductores cuyos carros están registrados fuera de Medellín.
+
+54.	[R] Escriba un programa que sume una cierta cantidad de números enteros. Suponga que el primer entero que se lee especifica el número de valores que faltan por introducir. Su programa deberá leer un solo valor por instrucción de entrada.
+Ingrese el número de números a sumar (-1 para terminar): 5 
+n1: 130
+n2: 200
+n3: 50
+n4: 800
+n5: 511
+La suma es: 1691
+
+Ingrese el número de números a sumar (-1 para terminar): -1 
+Fin del programa!!!
+
+
+55.	[R] Diseñar un programa que solicite el valor de x y muestre por pantalla el resultado de evaluar x^4 – x^2 + 1 (Nota: desarrollarlo mediante ciclos, no utilice la función pow).
+
+56.	[R] Realice un programa que imprima los divisores de un número entero positivo dado. 
+
+57.	[R] Realizar un programa que imprima los primeros N números primos. N se ingresa por teclado
+.
+58.	[R] Hacer un programa que determine la suma del valor menor y mayor de un grupo de 4 datos.
+
+59.	[R] Realizar un programa que determine si de dos números ingresados uno es múltiplo del otro.
+
+60.	[R] Escriba un programa que lea un número binario y lo convierta a decimal. El usuario escribirá cuántos dígitos binarios va a escribir, además debe decidir si el número es negativo o positivo, para esto el bit más significativo (el último bit) será 0 si es positivo o 1 si es negativo.
+
+61.	[R] Haga un programa que lea un número entero y muestre en pantalla su factorial. Use un ciclo for.
+
+62.	[R] Desarrollar un programa en C que realice la siguiente serie: 1 2 4 7 11 16 22 29 37… El usuario debe indicar cuantos dígitos de la serie deben ser mostrados. Po ejemplo:
+
+Ingrese la cantidad de digitos de la serie (-1 para terminar): 7 
+Serie: 1 2 4 7 11 16 22
+
+Ingrese la cantidad de digitos de la serie (-1 para terminar): 3 
+Serie: 1 2 4
+
+Ingrese la cantidad de digitos de la serie (-1 para terminar): 5 
+Serie: 1 2 4 7 11
+
+Ingrese la cantidad de digitos de la serie (-1 para terminar): -1
+Fin del programa!!!
+
+
+63.	[R] Una frutería ofrece las manzanas con descuento según la siguiente tabla:
+
+Numero de manzanas compradas 	% de descuento 
+0 – 2 	0% 
+3 – 5 	10% 
+6 – 10 	15% 
+11 en adelante 	20% 
+
+Determinar cuánto deberá pagar una persona que compre manzanas en esa frutería.
+
+64.	[R] Escriba un programa que imprima los siguientes patrones por separado, cada uno debajo del anterior, el usuario debe ingresar el número de filas de cada patrón. Use ciclos for para generar los patrones. Ojo, los asteriscos se imprimen usando la instrucción printf(“*”). Sugerencia, los últimos 2 patrones requieren que cada línea se inicie con una cantidad adecuada de espacios. A continuación se muestran los patrones: 
+
+Cantidad de filas: 6
+*
+**
+***
+****
+*****
+******
+
+Cantidad de filas: 5
+*****
+****
+***
+**
+*
+
+Cantidad de filas: 4
+****
+  ***
+    **
+      *
+
+Cantidad de filas: 7
+            *
+          **
+        ***
+      ****
+    *****
+  ******
+*******
+Nota: Estas secuencias se generan usando ciclos anidados. 
+
+65.	[R] Escriba un programa que lea un número binario y lo convierta a decimal. El programa debe continuar pidiendo valores e imprimiendo resultados hasta que la entrada sea no numérica.
+
+66.	[R] Escriba un programa que imprima una tabla en la que cada línea muestre un número entero, su cuadrado y su cubo. Pídale al usuario que ingrese los límites superior e inferior para la tabla. Use un ciclo for.
+
+67.	[R] En un curso se practican 4 evaluaciones con los siguientes porcentajes: 25%, 20%, 25% y 30%. Para cada estudiante se informa el código y las 4 notas. Hacer un programa que calcule la nota definitiva de cada estudiante, el promedio de notas definitivas del curso y el porcentaje de perdedores. Sugerencia: Asuma que el curso está compuesto por N estudiantes, usted es libre de asignar el valor de N, 50 o 10 por ejemplo. 
+
+68.	[R] Un restaurante paga a sus meseros dos clases de comisiones: 
+•	Una comisión del 7% sobre toda venta. 
+•	Otra comisión que depende del tipo de venta: 15% si la venta es de contado, 10% si la venta se hizo en cheque y, 5% si se hizo con tarjeta de crédito. 
+
+El restaurante tiene por cada venta: 
+•	Identificación de vendedor (1, 2, 3). 
+•	Tipo de venta (1: contado; 2: cheque; 3: Tarjeta).
+•	Cuantía de la venta. 
+
+Elaborar un programa que obtenga el total a pagar a cada uno de los 3 empleados (un empleado puede realizar varias ventas). Sugerencia: Use como condición del ciclo que el numero este entre 1 y 3 que son los números de los empleados de tal manera que si el usuario digita un numero diferente de estos, por ejemplo 4 es porque ya no hay mas ventas por lo que el programa debe salirse del ciclo para proceder con el despliegue de la información del total a pagar a cada empleado.
+
+69.	[R] Un almacén de escritorios hace los siguientes descuentos: Si el cliente compra menos de 5 unidades se le da un descuento del 10% sobre la compra; si el número de unidades es mayor o igual a 5 pero menos de 10 se le otorga un 20% y, si son 10 o más se le da un 40%. Hacer un programa que determine cuanto debe cuanto debe pagar un cliente si el valor de cada escritorio es de $800000.usuario deberá elegir una opción y el programa deberá mostrar el resultado por pantalla.
+
+70.	[R] Escriba un programa que pida limites superior e inferior, calcule la suma de los cuadrados de los enteros que van desde el límite inferior hasta el límite superior y despliegue el resultado. El programa deberá continuar solicitando límites superior e inferior y mostrando resultados hasta que el usuario ingrese un límite superior que sea igual que el límite inferior. Un ejemplo de cómo debería correr el programa:
+
+Ingrese limites inferior y superior: 5 7
+La suma de los cuadrados de los enteros desde 5 hasta 7 es 110
+
+Ingrese el siguiente conjunto de límites: 2 3
+La suma de los cuadrados de los enteros desde 2 hasta 3 es 13
+
+Ingrese el siguiente conjunto de límites: 2 2
+
+Hasta pronto.
+
+
+
+

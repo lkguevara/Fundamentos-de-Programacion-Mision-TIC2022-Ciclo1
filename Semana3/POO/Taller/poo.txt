@@ -1,0 +1,66 @@
+Programación Orientada a Objetos
+
+1. Realizar un programa que tenga una clase llamada COMPLEX y permita la trabajar con números complejos. Las operaciones a implementar son las siguientes:
+• Una función Read_Complex(): permite leer un objeto de la clase Complex.
+• Un Funcion Write_Complex(): permite visualizar el número complejo.
+
+2. Implemente un programa utilizando clases que permite calcular el área de las siguientes figuras trigonométricas: círculo, triangulo, cuadro y rectángulo. El programa debe visualizar un menú para que el usuario seleccione la figura deseada, al entrar en dicho menú se solicitan los datos necesarios al usuario para ejecutar el cálculo, después de esto debe volver al menú inicial.
+
+3. Realizar un programa que tenga una clase llamada PERSONAL_DATE y permita almacenar los datos personales de una persona: Nombre, Apellidos, Edad, Número de Cedula, Fecha de Nacimiento, Dirección y Teléfono. Las operaciones a implementar son:
+• Una función Loading_Data(): solicita al usuario los datos de una persona
+• Una función Data_Show(): permite ver la información de la persona.
+
+4. Implementar un programa para un banco que permita administrar la cuenta de sus usuarios. Para esto defina una clase llamada CLIENT que contiene los datos personales del punto anterior (numeral 2) y además tenga el saldo de la cuenta. Las operaciones a implementar son las dos del numeral anterior y además
+• Función Actualizar_datos(): Permite al usuario modificar sus datos personales.
+• Función Consignación(): Permite a determinado usuario consignar dinero en su cuenta.
+• Función Retiro(): Permite al usuario retirar dinero de su cuenta.
+• Función Consultar_Saldo(): Permite al usuario verificar el saldo de la cuenta.
+El programa debe mostrar un menú con varias opciones que permita seleccionar la opción deseada.
+
+5. Agenda Básica V 1.0
+La biblioteca municipal desea implementar un software para llevar el registro de los libros que tienen disponibles, por sus habilidades en programación, decidieron contratarlo para desarrollar una aplicación de escritorio en Java que permita inicialmente gestionar la información de los usuarios de la biblioteca
+El software se encarga de gestionar la información de los usuarios de la biblioteca
+Los datos que se almacenan de cada usuario son: nombre, apellido, fecha de nacimiento, cédula, dirección, teléfono y áreas favoritas esta última tiene cinco opciones: química, física, tecnología, cálculo y programación
+El programa debe presentar un menú con las siguientes opciones:
+a. Ingresar usuario: Permite ingresar un usuario nuevo a la base de datos.
+b. Actualizar usuario: Permite actualizar los datos de un usuario
+c. Eliminar usuario: Permite eliminar un usuario de la base de datos.
+d. Buscar usuario: Realiza la búsqueda de un usuario y muestra toda su información.
+e. Salir: Sale de la aplicación.
+
+6. BookSoft V1.0
+La biblioteca municipal desea implementar un software para llevar el registro de los libros que tienen disponibles, por sus habilidades en programación, decidieron contratarlo para desarrollar una aplicación de escritorio en Java que permita llevar dicho inventario.
+
+El software consta de dos módulos:
+
+I. El primero se encarga de gestionar la información de los libros
+Los datos que se almacenan de cada libro son: nombre, autor, año de publicación, código, cantidad y área, esta última tiene cinco opciones: química, física, tecnología, cálculo y programación
+El programa debe presentar un menú con las siguientes opciones:
+• Ingresar libro: Permite ingresar un libro nuevo a la base de datos.
+• Actualizar libro: Permite actualizar los datos de un libro.
+• Eliminar libro: Permite eliminar un libro de la base de datos.
+• Buscar libro: Realiza la búsqueda de un libro y muestra toda su información.
+
+II. Gestión de préstamos:
+Se debe almacenar el número de cédula de la persona que presta el libro. Las funciones adicionales son:
+• Prestar libro: Realiza la búsqueda de un libro, decrementa de su inventario el libro y se almacena en alguna parte para el reporte de libros prestados.
+• Devolver libro: Realiza la búsqueda del libro en los libros prestados y lo saca de su inventario
+• Libros prestados: Muestra la lista de todos los libros prestados.
+
+7. TiendaSoft V 1.0
+
+La empresa Peluchitos.com lo acaba de contratar para que desarrollen un programa para llevar la contabilidad del negocio. La idea básicamente es desarrollar un programa que desplegará un menú como el siguiente:
+1. Agregar Producto
+2. Buscar Producto
+3. Eliminar producto
+4. Mostrar Inventario
+5. Realizar Venta
+6. Mostrar Ganancias totales
+7. Salir
+Funcionamiento:
+1. Agregar Producto: Se debe almacenar el nombre del producto, se almacena la cantidad de productos y se almacena el valor individual del producto.
+2. Buscar Producto: Se digita el nombre del producto y se busca, si lo encuentra debe visualizar el nombre del producto, la cantidad y el valor si no lo encuentra mostrara un mensaje anunciando que el producto no existe.
+3. Eliminar Producto: Se digita el nombre del producto y se busca, si lo encuentra lo elimina junto con su valor y su cantidad, si no lo encuentra mostrara un mensaje anunciando que el producto no existe.
+4. Mostrar Inventario: Permite visualizar todos los productos, con sus cantidades y precios.
+5. Realizar ventas: Se debe digitar el nombre del producto, si lo encuentra, se le solicitara al usuario la cantidad que desea vender, este dato debe quedar almacenado
+8. Mostrar Ganancias Totales: Se visualizará cada uno de los productos con la cantidad de ventas de cada producto y el valor total de la venta, finalmente muestra el valor total de lo que ha vendido

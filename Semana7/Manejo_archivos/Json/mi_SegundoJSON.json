@@ -1,0 +1,10 @@
+{
+    "poductos":[
+        {"nombre":"Arroz", "precio":500},
+        {"nombre":"Papa", "precio":600},
+        {"nombre":"Cebolla", "precio":700},
+        {"nombre":"Arveja", "precio":900},
+        {"nombre":"Frijol", "precio":1500},
+        {"nombre":"Cilantro", "precio":500}
+    ]
+}
